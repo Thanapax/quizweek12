@@ -1,0 +1,15 @@
+C:\Users\advic\Desktop\Code\quizweek12\item\bin\Debug\net6.0\item.exe
+C:\Users\advic\Desktop\Code\quizweek12\item\bin\Debug\net6.0\item.deps.json
+C:\Users\advic\Desktop\Code\quizweek12\item\bin\Debug\net6.0\item.runtimeconfig.json
+C:\Users\advic\Desktop\Code\quizweek12\item\bin\Debug\net6.0\item.dll
+C:\Users\advic\Desktop\Code\quizweek12\item\bin\Debug\net6.0\item.pdb
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.csproj.AssemblyReference.cache
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.AssemblyInfoInputs.cache
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.AssemblyInfo.cs
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.csproj.CoreCompileInputs.cache
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.dll
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\refint\item.dll
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.pdb
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\item.genruntimeconfig.cache
+C:\Users\advic\Desktop\Code\quizweek12\item\obj\Debug\net6.0\ref\item.dll
